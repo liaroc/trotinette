@@ -1,4 +1,4 @@
 trotinette
 ==========
 
-Projet Trotinette
+Project Trotinette
